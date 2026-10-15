@@ -11,7 +11,7 @@
 **离线使用 Offline**：下载 `zh/index.html` 或 `en/index.html`，双击用浏览器打开即可（无需安装、不联网）。
 Download `zh/index.html` or `en/index.html` and open it in your browser — no install, no network.
 
-**许可 License**：[PolyForm Noncommercial License 1.0.0](#许可-license) —— 个人与非商业用途免费；**商业用途需另行授权**。
+**许可 License**：[PolyForm Noncommercial License 1.0.0](#七许可-license) —— 个人与非商业用途免费；**商业用途需另行授权**。
 
 ---
 
@@ -153,7 +153,7 @@ ai-collab-archive/
 
 **Offline**: download `en/index.html` and open it in your browser — no install, no network required.
 
-**License**: [PolyForm Noncommercial License 1.0.0](#license) — free for personal and noncommercial use; **commercial use requires a separate licence**.
+**License**: [PolyForm Noncommercial License 1.0.0](#7-license) — free for personal and noncommercial use; **commercial use requires a separate licence**.
 
 ## 1. What problem does it solve
 
