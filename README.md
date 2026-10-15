@@ -2,7 +2,7 @@
 
 > 填一份问卷，生成两条指令；粘贴给你常用的 AI，让它为你建立并长期维护一套跨会话、跨工具的协作档案。
 
-**在线体验**：<https://randomGGo.github.io/ai-collab-archive/> ｜ **离线使用**：下载本仓库的 `index.html`，双击用浏览器打开即可（无需安装、不联网）。
+**在线体验**：<https://randomggo.github.io/ai-collab-archive/> ｜ **离线使用**：下载本仓库的 `index.html`，双击用浏览器打开即可（无需安装、不联网）。
 
 ---
 
@@ -96,7 +96,7 @@ MIT License © 2026 randomGGo
 
 > Fill in one questionnaire, get two prompts, paste them into any AI you already use — and let it build and maintain a cross-session, cross-tool collaboration archive for you.
 
-**Live demo**: <https://randomGGo.github.io/ai-collab-archive/> ｜ **Offline**: download `index.html` and open it in your browser (no install, no network required).
+**Live demo**: <https://randomggo.github.io/ai-collab-archive/> ｜ **Offline**: download `index.html` and open it in your browser (no install, no network required).
 
 ## 1. What problem does it solve
 
